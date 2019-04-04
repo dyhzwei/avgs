@@ -1,2 +1,0 @@
-# avgs
-avg game
